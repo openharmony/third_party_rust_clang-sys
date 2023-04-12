@@ -62,7 +62,7 @@ fn main() {
 #[cfg(not(feature = "runtime"))]
 fn main() {
     if cfg!(feature = "static") {
-        r#static::link();
+        // r#static::link();
     } else {
         dynamic::link();
     }
