@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "clang-sys",
+    "License": "Apache License V2.0",
+    "License File": "LICENSE.txt",
+    "Version Number": "1.4.0",
+    "Owner": "fangting12@huawei.com",
+    "Upstream URL": "https://github.com/KyleMayes/clang-sys",
+    "Description": "A Rust library that provides bindings to the Clang C/C++ compiler."
+  }
+]
